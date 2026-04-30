@@ -2,7 +2,7 @@
 
 📌 Overview 
 
-MSCode is a web-based gesture and eye-blink controlled translation system built using HTML, CSS, and JavaScript. It enables real-time human-computer interaction using a browser camera.
+MScode (morse code )is a web-based gesture and eye-blink controlled translation system built using HTML, CSS, and JavaScript. It enables real-time human-computer interaction using a browser camera.
 
 The system detects eye blinks and hand gestures (like 1, 2 fingers) and converts them into digital outputs displayed directly on the web interface.
 
