@@ -4,7 +4,7 @@
 
 MSCode is a web-based gesture and eye-blink controlled translation system built using HTML, CSS, and JavaScript. It enables real-time human-computer interaction using a browser camera.
 
-The system detects eye blinks and hand gestures (like 1, 2, 3 fingers) and converts them into digital outputs displayed directly on the web interface.
+The system detects eye blinks and hand gestures (like 1, 2 fingers) and converts them into digital outputs displayed directly on the web interface.
 
 This project focuses on accessibility, futuristic UI interaction, and browser-based AI vision control.
 
