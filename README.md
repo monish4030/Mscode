@@ -33,7 +33,7 @@ This project focuses on accessibility, futuristic UI interaction, and browser-ba
 
 🎥 Demo
 
-> Add your live demo link or GitHub Pages link here
+demo link 👇
 
 
 
@@ -105,7 +105,7 @@ WebRTC (Camera Access) 📷
 
 📁 Project Structure
 
-MSCode/
+Mscode/
 │── index.html
 │── style.css
 │── script.js
@@ -120,13 +120,13 @@ MSCode/
 🚀 Installation & Setup
 
 # Clone repository
-git clone https://github.com/yourusername/MSCode.git
+```git clone https://github.com/monish4030/Mscode.git```
 
 # Open project
-cd MSCode
+```cd MScode```
 
 # Run project
-Open index.html in browser
+Open ```index.html``` in browser
 
 OR use Live Server in VS Code for best experience.
 
