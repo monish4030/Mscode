@@ -163,7 +163,7 @@ Vercel
 
 📄 License
 
-This project is licensed under the MIT License – free to use and not-for modified .
+![License](https://img.shields.io/badge/License-CC%20BY--ND%204.0-red?style=for-the-badge)
 
 
 ---
